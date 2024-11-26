@@ -1,0 +1,14 @@
+discord.py
+aiohttp
+requests
+async-timeout
+aiocache
+aiosignal
+attrs
+certifi
+charset-normalizer
+easy-pil
+frozenlist
+idna
+multidict
+pillow
